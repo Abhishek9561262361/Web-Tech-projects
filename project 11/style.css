@@ -1,0 +1,43 @@
+*{
+    padding: 0px;
+    margin: 0px;
+}
+outer{
+    height: 500px;
+    width: 500px;
+    border: 2px solid black;
+}
+.inner{
+    height: 800px;
+    width: 800px;
+    border: 2px solid black;
+}
+.firstbox{
+    height: 800px;
+    padding: 0px;
+    margin: 0px;
+    width: 400px;
+    border: 2px solid black;
+}
+#image{
+    background-image: url(./images/birds.png);
+    width: 400px;
+    height: 400px;
+}
+#text{
+    text-align: center;
+    padding-top: 30px;
+}
+#logo2{
+    margin-left: 20px;
+}
+#logo3{
+    margin-left: 20px;
+}
+.innerdiv{
+    height: 800px;
+    padding: 0px;
+    margin: 0px;
+    width: 400px;
+    border: 2px solid black;
+}
