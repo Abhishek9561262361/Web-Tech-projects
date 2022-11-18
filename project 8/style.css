@@ -1,0 +1,415 @@
+* {
+  padding: 0px;
+  margin: 0px;
+}
+.outer {
+  height: 3000px;
+  margin-left: 400px;
+  /* border: 2px solid black; */
+}
+.inner {
+  width: 780px;
+  height: 2700px;
+  border: 2px solid black;
+  margin: auto;
+  position: relative;
+  display: inline-block;
+  background-color: lightgreen;
+  font-family: 'Lato', sans-serif;
+  /* margin: auto; */
+}
+.innerdiv {
+  border: 2px solid black;
+  border-radius: 30px;
+  padding-left: 20px;
+  height: 100px;
+  width: 720px;
+  margin-right: 200px;
+  /* text-align: end; */
+}
+#box1{
+    color: #FF2525;
+    border: none;
+}
+#box3 {
+  text-align: end;
+  padding-top: 40px;
+}
+#box2 {
+  /* background-image: url(./image/varanasi.jpg); */
+  height: 260px;
+  background-color: #8EC5FC;
+background-image: linear-gradient(62deg, #8EC5FC 0%, #E0C3FC 100%);
+  margin: 20px;
+  width: 720px;
+  /* padding-top: 20px; */
+  border: 2px solid black;
+  background-repeat: no-repeat;
+  background-size: cover;
+  top: 0px;
+  background-position: center;
+}
+#box2:hover{
+    height: 300px;
+    width: 800px;
+}
+#img {
+  background-image: url(./image/varanasi.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
+  height: 200px;
+  /* display: flex; */
+  width: 200px;
+  top: 0px;
+  border: 2px solid black;
+  border-radius: 20px;
+  background-position: center;
+  /* padding-top: 20px; */
+  text-align: end;
+}
+.one {
+  display: flex;
+  justify-content: center;
+  position: relative;
+  /* justify-content: space-between; */
+}
+#information {
+  /* text-align: end; */
+  /* align-items: flex-end; */
+  height: 190px;
+  /* margin-left: 10px; */
+  margin-bottom: 0px;
+  /* margin-left: 30px; */
+  /* border: 2px solid black; */
+  width: 500px;
+  text-align: center;
+  padding-top: 10px;
+}
+#box4 {
+  height: 260px;
+  margin: 20px;
+  width: 720px;
+  text-align: left;
+  border: 2px solid black;
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-color: #FBAB7E;
+background-image: linear-gradient(62deg, #FBAB7E 0%, #F7CE68 100%);
+  top: 0px;
+  background-position: center;
+}
+#box4:hover{
+    height: 300px;
+    width: 800px;
+}
+.two {
+  display: flex;
+  justify-content: center;
+  position: relative;
+}
+#img2 {
+  background-image: url(./image/jaisalmer.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
+  height: 200px;
+  width: 200px;
+  top: 0px;
+  border: 2px solid black;
+  background-position: center;
+  text-align: end;
+}
+#information2 {
+  height: 190px;
+  margin-bottom: 0px;
+  /* border: 2px solid black; */
+  width: 500px;
+  text-align: center;
+  padding-top: 10px;
+}
+#box5 {
+  height: 260px;
+  margin: 20px;
+  background-color: #FFE53B;
+background-image: linear-gradient(147deg, #FFE53B 0%, #FF2525 74%);
+  width: 720px;
+  text-align: left;
+  border: 2px solid black;
+  background-repeat: no-repeat;
+  background-size: cover;
+  top: 0px;
+  background-position: center;
+}
+#box5:hover{
+    height: 300px;
+    width: 800px;
+}
+.three {
+  display: flex;
+  justify-content: center;
+  position: relative;
+}
+#img3 {
+  background-image: url(./image/Gateway-Of-India_600-1-1280x720.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
+  height: 200px;
+  width: 200px;
+  top: 0px;
+  border: 2px solid black;
+  background-position: center;
+  text-align: end;
+}
+#information3 {
+  height: 190px;
+  margin-bottom: 0px;
+  /* border: 2px solid black; */
+  width: 500px;
+  text-align: center;
+  padding-top: 10px;
+}
+#box6 {
+  height: 260px;
+  margin: 20px;
+  width: 720px;
+  text-align: left;
+  border: 2px solid black;
+  background-repeat: no-repeat;
+  background-color: #FF9A8B;
+background-image: linear-gradient(90deg, #FF9A8B 0%, #FF6A88 55%, #FF99AC 100%);
+  background-size: cover;
+  top: 0px;
+  background-position: center;
+}
+#box6:hover{
+    height: 300px;
+    width: 800px;
+}
+.four {
+  display: flex;
+  justify-content: center;
+  position: relative;
+}
+#img4 {
+  background-image: url(./image/beaches\ of\ goa.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
+  height: 200px;
+  width: 200px;
+  top: 0px;
+  border: 2px solid black;
+  background-position: center;
+  text-align: end;
+}
+#information4 {
+  height: 190px;
+  margin-bottom: 0px;
+  /* border: 2px solid black; */
+  width: 500px;
+  text-align: center;
+  padding-top: 10px;
+}
+#box7 {
+  height: 260px;
+  margin: 20px;
+  width: 720px;
+  background-color: #21D4FD;
+background-image: linear-gradient(19deg, #21D4FD 0%, #B721FF 100%);
+  text-align: left;
+  border: 2px solid black;
+  background-repeat: no-repeat;
+  background-size: cover;
+  top: 0px;
+  background-position: center;
+}
+#box7:hover{
+    height: 300px;
+    width: 800px;
+}
+.five {
+  display: flex;
+  justify-content: center;
+  position: relative;
+}
+#img5 {
+  background-image: url(./image/elloracaves_istock.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
+  height: 200px;
+  width: 200px;
+  top: 0px;
+  border: 2px solid black;
+  background-position: center;
+  text-align: end;
+}
+#information5 {
+  height: 190px;
+  margin-bottom: 0px;
+  /* border: 2px solid black; */
+  width: 500px;
+  text-align: center;
+  padding-top: 10px;
+}
+#box8 {
+  height: 260px;
+  margin: 20px;
+  width: 720px;
+  background-color: #74EBD5;
+background-image: linear-gradient(90deg, #74EBD5 0%, #9FACE6 100%);
+  text-align: left;
+  border: 2px solid black;
+  background-repeat: no-repeat;
+  background-size: cover;
+  top: 0px;
+  background-position: center;
+}
+#box8:hover{
+    height: 300px;
+    width: 800px;
+}
+.six {
+  display: flex;
+  justify-content: center;
+  position: relative;
+}
+#img6 {
+  background-image: url(./image/mehrangrah\ fort.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
+  height: 200px;
+  width: 200px;
+  top: 0px;
+  border: 2px solid black;
+  background-position: center;
+  text-align: end;
+}
+#information6 {
+  height: 190px;
+  margin-bottom: 0px;
+  /* border: 2px solid black; */
+  width: 500px;
+  text-align: center;
+  padding-top: 10px;
+}
+#box9 {
+  height: 260px;
+  margin: 20px;
+  background-color: #A9C9FF;
+background-image: linear-gradient(90deg, #A9C9FF 0%, #FFBBEC 100%);
+  width: 720px;
+  text-align: left;
+  border: 2px solid black;
+  background-repeat: no-repeat;
+  background-size: cover;
+  top: 0px;
+  background-position: center;
+}
+#box9:hover{
+    height: 300px;
+    width: 800px;
+}
+.seven {
+  display: flex;
+  justify-content: center;
+  position: relative;
+}
+#img7 {
+  background-image: url(./image/Varanasiganga.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
+  height: 200px;
+  width: 200px;
+  top: 0px;
+  border: 2px solid black;
+  background-position: center;
+  text-align: end;
+}
+#information7 {
+  height: 190px;
+  margin-bottom: 0px;
+  /* border: 2px solid black; */
+  width: 500px;
+  text-align: center;
+  padding-top: 10px;
+}
+#box10 {
+  height: 260px;
+  margin: 20px;
+  width: 720px;
+  background-color: #D9AFD9;
+background-image: linear-gradient(0deg, #D9AFD9 0%, #97D9E1 100%);
+  text-align: left;
+  border: 2px solid black;
+  background-repeat: no-repeat;
+  background-size: cover;
+  top: 0px;
+  background-position: center;
+}
+#box10:hover{
+    height: 300px;
+    width: 800px;
+}
+.eight {
+  display: flex;
+  justify-content: center;
+  position: relative;
+}
+#img8 {
+  background-image: url(./image/mysure.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
+  height: 200px;
+  width: 200px;
+  top: 0px;
+  border: 2px solid black;
+  background-position: center;
+  text-align: end;
+}
+#information8 {
+  height: 190px;
+  margin-bottom: 0px;
+  /* border: 2px solid black; */
+  width: 500px;
+  text-align: center;
+  padding-top: 10px;
+}
+#box11 {
+  height: 260px;
+  margin: 20px;
+  width: 720px;
+  background-color: #FBAB7E;
+background-image: linear-gradient(62deg, #FBAB7E 0%, #F7CE68 100%);
+  text-align: left;
+  border: 2px solid black;
+  background-repeat: no-repeat;
+  background-size: cover;
+  top: 0px;
+  background-position: center;
+}
+#box11:hover{
+    height: 300px;
+    width: 800px;
+}
+.nine {
+  display: flex;
+  justify-content: center;
+  position: relative;
+}
+#img9 {
+  background-image: url(./image/buddha-wat-architecture-religion-thailand-buddhism.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
+  height: 200px;
+  width: 200px;
+  top: 0px;
+  border: 2px solid black;
+  background-position: center;
+  text-align: end;
+}
+#information9 {
+  height: 190px;
+  margin-bottom: 0px;
+  /* border: 2px solid black; */
+  width: 500px;
+  text-align: center;
+  padding-top: 10px;
+}
