@@ -1,0 +1,167 @@
+* {
+    padding: 0px;
+    margin: 0px;
+  }
+  .outer {
+    height: 900px;
+    width: 1200px;
+    padding-top: 50px;
+    border: 2px solid black;
+    display: flex;
+    justify-content: space-evenly;
+    font-family: "Poppins", sans-serif;
+    margin: auto;
+    background-image: url(./images/background\ image.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+  }
+  .inner1 {
+    color: white;
+    height: 700px;
+    width: 400px;
+    padding-top: 150px;
+    border: 2px solid black;
+    /* border-radius: 20px; */
+    text-align: center;
+    background-image: url(./images/color\ shade.jpg);
+  }
+  #heading{
+    font-size: 70px;
+  }
+  #box1{
+    color: white;
+  }
+  .line {
+    /* padding-left: 20px; */
+  }
+  #one {
+    padding: 10px;
+    width: 300px;
+    border-radius: 50px;
+  }
+  #two {
+    padding: 10px;
+    width: 300px;
+    border-radius: 50px;
+  }
+  #three{
+    padding-left: 150px;
+  }
+  #four {
+    padding: 10px;
+    width: 50px;
+    background-color: darkblue;
+    color: white;
+    border-radius: 10px;
+  }
+  #five {
+    /* text-align: center; */
+    padding-left: 250px;
+    /* margin-left: 100px; */
+  }
+  #six {
+    text-align: center;
+    /* margin-left: 30px; */
+  }
+  #seven {
+    padding: 10px;
+    width: 300px;
+    padding-left: 70px;
+    padding-right: 70px;
+    border-radius: 10px;
+    background: rgb(242, 237, 237);
+    background: linear-gradient(
+      90deg,
+      rgba(242, 237, 237, 1) 0%,
+      rgba(187, 230, 237, 1) 100%
+    );
+    border: 2px solid black;
+  }
+  #eight {
+    padding: 10px;
+    width: 300px;
+    padding-left: 60px;
+    padding-right: 60px;
+    border-radius: 10px;
+    background: rgb(242, 237, 237);
+    background: linear-gradient(
+      90deg,
+      rgba(242, 237, 237, 1) 0%,
+      rgba(187, 230, 237, 1) 100%
+    );
+    border: 2px solid black;
+  }
+  #nine {
+    /* padding-left: 20px; */
+    color: white;
+  }
+  .inner2 {
+    color: white;
+    height: 700px;
+    width: 400px;
+    padding-top: 150px;
+    border: 2px solid black;
+    /* border-radius: 20px; */
+    text-align: center;
+    background-image: url(./images/color\ shade.jpg);
+  }
+  #box10{
+    color: white;
+  }
+  #arrow{
+    padding-right: 250px;
+  }
+  #ten {
+    padding: 10px;
+    width: 300px;
+    border-radius: 10px;
+  }
+  #eleven {
+    padding: 10px;
+    width: 300px;
+    border-radius: 10px;
+  }
+  #twelve {
+    padding: 10px;
+    width: 300px;
+    border-radius: 10px;
+  }
+  #number{
+    padding: 10px;
+    width: 300px;
+    border-radius: 10px;
+  }
+  #box15{
+    padding-left: 250px;
+  }
+  #fourteen {
+    padding: 10px;
+    width: 50px;
+    background-color: darkblue;
+    color: white;
+    border-radius: 10px;
+  }
+
+#fifteen{
+    color: white;
+}  #logo1{
+    height: 25px;
+    width: 25px;
+    border: 2px solid black;
+    border-radius: 50%;
+  }
+  #logo2{
+    height: 25px;
+    width: 25px;
+    border: 2px solid black;
+    border-radius: 50%;
+    margin-left: 10px;
+  }
+  #logo3{
+    height: 25px;
+    width: 25px;
+    border: 2px solid black;
+    border-radius: 50%;
+    margin-left: 10px;
+  }
+  
