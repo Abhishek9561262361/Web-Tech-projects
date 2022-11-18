@@ -1,0 +1,100 @@
+.inner {
+  height: 600px;
+  width: 600px;
+  border: 2px solid black;
+  align-items: center;
+  /* padding-top: 80px; */
+  background-color: white;
+  margin: 100px auto;
+  font-family: "Lato", sans-serif;
+}
+.outer {
+  margin-left: 400px;
+  height: 850px;
+  width: 900px;
+  border: 2px solid black;
+  background-color: #a9c9ff;
+  background-image: linear-gradient(270deg, #a9c9ff 0%, #ffbbec 100%);
+}
+h1 {
+  text-align: center;
+  font-size: 50px;
+}
+.innerdiv {
+  /* height: 500px; */
+  /* width: 400px; */
+  /* border: 2px solid black; */
+  margin: auto;
+}
+.forming {
+  /* text-align: center;    */
+  margin: auto;
+  font-family: "Lato", sans-serif;
+}
+#box1 {
+  /* text-align: center; */
+  padding-left: 30px;
+  padding-top: 0px;
+}
+#three {
+  text-align: left;
+}
+#one {
+  border: none;
+  box-sizing: border-box;
+  cursor: text;
+  border-bottom: 1px solid black;
+  border-right: 1px solid black;
+  width: 44%;
+}
+#two {
+  border: none;
+  border-bottom: 1px solid black;
+  border-right: 1px solid black;
+  width: 44%;
+}
+#box2 {
+  padding-left: 30px;
+  /* padding-top: 20px; */
+}
+#four {
+  border: none;
+  border-bottom: 1px solid black;
+  border-right: 1px solid black;
+  width: 90%;
+}
+#box3 {
+  padding-left: 30px;
+}
+#five {
+  border: none;
+  border-bottom: 1px solid black;
+  border-right: 1px solid black;
+  width: 90%;
+}
+#six {
+  border: none;
+  border-bottom: 1px solid black;
+  border-right: 1px solid black;
+  width: 90%;
+}
+#box4 {
+  padding-left: 30px;
+}
+#box5 {
+  padding-left: 30px;
+  width: 50%;
+  border: 2px solid black;
+  text-align: center;
+  border-radius: 40px;
+  padding: 10px;
+  background-color: #a9c9ff;
+  background-image: linear-gradient(270deg, #a9c9ff 0%, #ffbbec 100%);
+}
+#seven {
+  border: none;
+  font-size: 20px;
+  text-align: center;
+  background-color: #a9c9ff;
+  background-image: linear-gradient(270deg, #a9c9ff 0%, #ffbbec 100%);
+}
