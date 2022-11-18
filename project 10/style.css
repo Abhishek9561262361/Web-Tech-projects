@@ -1,0 +1,61 @@
+*{
+    padding: 0px;
+    margin: 0px;
+}
+.outer{
+    margin: auto;
+    height: 720px;
+    width: 1400px;
+    border: 2px solid black;
+    background: rgb(242,237,237);
+background: linear-gradient(90deg, rgba(242,237,237,1) 0%, rgba(187,230,237,0.9783263647255778) 100%);
+}
+.inner1{
+    height: 600px;
+    width: 1000px;
+    margin: 50px auto;
+    padding-left: 200px;
+    padding-top: 20px;
+    display: flex;
+    border: 2px solid black;
+    background: rgb(84,221,244);
+background: linear-gradient(90deg, rgba(84,221,244,1) 75%, rgba(255,229,180,1) 100%);
+}
+.innerdiv2{
+    height: 548px;
+    margin: 50px;
+    background-image: url(./images/desine.png);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    width: 356px;
+    /* border: 2px solid black; */
+}
+.innerdiv1{
+}
+#one{
+    padding: 2px;
+}
+#two{
+    padding: 2px;
+    margin-left: 20px;
+}
+#three{
+    padding: 2px;
+}
+#four{
+    
+}
+#five{
+    width: 400px;
+    height: 68px;
+    border: 2px solid black;
+    text-align: center;
+    padding-left: 5px;
+    padding-top: 44px;
+}
+#six{
+    width: 200px;
+    border: 2px solid black;
+    padding: 10px;
+}
